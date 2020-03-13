@@ -1,0 +1,150 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+      margin: 0;
+      font-family: system-ui, sans-serif;
+      overflow-x: hidden;
+      scroll-behavior: smooth;
+    }
+
+    .wave-container {
+      position: relative;
+      background: #09F;
+      color: #FFF;
+      text-align: center;
+      overflow: hidden;
+      padding-top: 100px;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-bottom: 30px
+    }
+    p {
+      font-size: 1.5rem;
+    }
+
+    h1.title {
+      font-size: 3em;
+      letter-spacing: 3px;
+    }
+    h3.title {
+      padding-bottom: 20px;
+      font-size: 21px;
+    }
+
+    i.icon {
+      padding-bottom: 50px;
+    }
+
+    p.description {
+      font-size: 18px;
+    }
+
+    svg {
+      margin-top: -5px;
+    }
+
+    .navbar {
+      margin-bottom: -1px;
+      padding: .5rem 50px;
+    }
+
+    .navbar-light {
+      color: #FFF;
+    }
+
+    .text1 {
+      margin: 35px 0px;
+    }
+
+    .text2 {
+      color: #f5f4f4ba;
+    }
+    a.navbar-brand {
+        letter-spacing: 1px;
+    }
+    img.logo {
+      width: 100px;
+      height: 55px;
+    }
+
+    .content.text-center {
+      margin-top: 50px;
+      margin-bottom: 75px;
+    }
+
+    .features {
+      color: #145682;
+      margin-top: -90px;
+      margin-bottom: 90px;
+    }
+
+    .col-md-4.form-right {
+      background-color: #FFF;
+      border-radius: 10px;
+      color: #145682;
+      -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    }
+
+    header.form-right-header {
+      margin-top: 45px;
+      margin-bottom: 20px;
+      font-size: 25px;
+  }
+
+  button.formbtn {
+    border-radius: 20px;
+    margin-bottom: 15px;
+    width: 270px;
+  }
+  .input-link {
+    background-color: #FFF;
+    margin-left: -14px;
+    border-radius: 5px;
+  }
+  .shorten-btn {
+    width: 160px;
+    margin: 10px 0px;
+    margin-left: 30px;
+  }
+
+  .content-header {
+    font-family: serif;
+    font-size: 40px;
+    margin-bottom: 60px;
+  }
+
+  .statistic {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #145682;
+    background-color: #cee7f4;
+  }
+
+  .count-line {
+    letter-spacing: 1px;
+    font-family: fantasy;
+    font-size: 40px;
+  }
+
+  .free-trial.text-center {
+    padding: 30px 0px;
+    background-color: #09F;
+    color: #FFF;
+  }
+
+  .trial-btn {
+    margin-top: -50px;
+  }
+
+  footer {
+    padding: 25px 25px;
+  }
+
+  .logo.text-right {
+    font-size: 20px;
+  }
